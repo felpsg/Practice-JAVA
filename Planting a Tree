@@ -1,0 +1,13 @@
+public class Tree {
+  public static void main(String[]argsz){
+    // Vamos nos apresentar e imprimir uma árvore na tela.
+  System.out.println("Olá, estou aprendendo os fundamentos e a codificação em JAVA");
+  System.out.println("Pronto para sujar as mãos!");
+    System.out.println(" * ** *  ");
+    System.out.println(" ******  ");
+    System.out.println("  ****  ");
+    System.out.println("   **  ");
+    System.out.println("   *");
+    System.out.println("~~~~~~~~");
+  }
+}
